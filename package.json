@@ -1,0 +1,35 @@
+{
+  "name": "mui-x-issue-template-datepicker-with-toolbar-falls-off-screen",
+  "version": "1.0.0",
+  "description": "Template for a codesandbox that should be included in your issue.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/lab": "5.0.0-alpha.76",
+    "@mui/material": "latest",
+    "@mui/x-date-pickers": "5.0.16",
+    "@mui/x-license-pro": "latest",
+    "date-fns": "latest",
+    "dayjs": "1.11.7",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
